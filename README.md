@@ -76,8 +76,7 @@ VITE_WEATHER_API_KEY=your_openweathermap_api_key
 ## الاتصال 📧
 
 - البريد الإلكتروني: ahmad.bariish@gmail.com
-- موقع المشروع: [https://wethersyria.vercel.app/](https://wethersyria.vercel.app/)
-
+- موقع المشروع: [![Live Project](https://img.shields.io/badge/🌍-Live%20Project-green?style=for-the-badge)](https://wethersyria.vercel.app/)
 ## شكر خاص 🙏
 
 - شكر خاص لفريق OpenWeatherMap لتوفير API الطقس
